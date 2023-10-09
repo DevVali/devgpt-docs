@@ -16,8 +16,8 @@ We handle the routine coding, you focus on more complex and fulfilling tasks, by
 
 Ready to jump in? We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="product-guides/page.md" %}
-[page.md](product-guides/page.md)
+{% content-ref url="product-guides/quick-start-tutorial.md" %}
+[quick-start-tutorial.md](product-guides/quick-start-tutorial.md)
 {% endcontent-ref %}
 
 {% content-ref url="product-guides/prompting.md" %}

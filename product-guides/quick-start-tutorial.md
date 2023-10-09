@@ -1,5 +1,5 @@
 ---
-description: How to Get Started with DevGPT v1.0.5
+description: How to get started with DevGPT 2.0.0
 ---
 
 # 📖 Quick-start tutorial
@@ -8,8 +8,22 @@ description: How to Get Started with DevGPT v1.0.5
 [If you have any questions, we have a Discord! Open and active, full of users talking about AI, DevGPT and all things development. Everyone is welcome!](https://discord.com/invite/6GFtwzuvtw)
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?ab_channel=DevGPT&v=u8otvJQ3It8" %}
-DEVGPT QUICK START GUIDE
-{% endembed %}
+We're happy that you're interested in trying out DevGPT. To get started, please [refer to this website](https://code.devgpt.com) and follow along with the quick-start tutorial.
 
-We're happy that you want to try DevGPT, thank you for taking the time to check it out! We've created this video to help everyone get setup and ready to start solving tickets.
+## Authenticating
+
+Choose your favorite git provider and sign in. We are currently GitHub exclusive, but not for long! We'll be releasing integrations for BitBucket and GitLab soon.
+
+## Select your repository
+
+Once you're signed in, a modal with the list of your repositores will pop up. Select one of your repositories so that DevGPT can set up the workspace for you.
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>LIST OF REPOSITORIES</p></figcaption></figure>
+
+{% hint style="warning" %}
+Don't see your repository? Make sure your repository is linked to your git provider's account you've signed in with.
+{% endhint %}
+
+## Prompting
+
+You can now start entering your tasks. To get the most of DevGPT, please [refer here](prompting.md).
